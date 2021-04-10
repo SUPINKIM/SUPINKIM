@@ -2,7 +2,8 @@
 - 👀  I love to start new Project & study algorithm!
 - 💻  I love coding!
 - 🛠  My Tech Stack 🛠
-<img src="https://img.shields.io/badge/#ff867c?style=flat-square&logo=#F7DF1E&logoColor=white"/></a>&nbsp 
+
+<img src="https://img.shields.io/badge/Javascript-#ff867c?style=flat-square&logo=#F7DF1E&logoColor=white"/></a>&nbsp 
 
 
 
