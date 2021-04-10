@@ -3,9 +3,9 @@
 - 💻  I love coding!
 - 🛠  My Tech Stack 🛠
 
-<img src="https://img.shields.io/badge/Javascript-ff867c?style=flat-square&logo=F7DF1E&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-90caf9?style=flat-square&logo=1572B6&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Javascript-ff867c?style=flat-square&logo=#F7DF1E&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-90caf9?style=flat-square&logo=#1572B6&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vue.js-81c784?style=flat-square&logo=#4FC08D&logoColor=white"/>
 
 
 
