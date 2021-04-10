@@ -1,5 +1,5 @@
 - 👋  Hi, I’m @SUPINKIM
-- 👀  I love to start new Project & study algorithm!
+- 👀  I love to start new Project and study algorithm!
 - 💻  I love coding!
  
 
