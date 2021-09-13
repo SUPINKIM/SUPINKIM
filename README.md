@@ -5,7 +5,7 @@
 
 #### 🛠 &nbsp; My Tech Stack &nbsp; 🛠
 
-<img src="https://img.shields.io/badge/Javascript-ff867c?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/CSS-90caf9?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/React.js-6c5ce7?style=flat-square&logo=React&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Javascript-ff867c?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/CSS-90caf9?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/React.js-6c5ce7?style=flat-square&logo=React&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/React_Native-c62828?style=flat-square&logo=React&logoColor=white"/>
 
 
 #### 💻 &nbsp; career 
