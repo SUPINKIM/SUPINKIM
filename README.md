@@ -9,7 +9,7 @@
 
 
 #### 💻 &nbsp; career 
-- kakao 여름 인턴십 참여 : FE 플랫퐄 팀 소속 인턴 (2021.06.28 ~ 2021.08.31)
+- kakao 여름 인턴십 참여 : FE 플랫폼 팀 소속 인턴 (2021.06.28 ~ 2021.08.31)
 - (주)파프리카스토리 UX 디자인팀 근무: 기획 및 UX 디자인 업무 담당 (2019.07.01 ~ 2020.12.31)
 <!---
 SUPINKIM/SUPINKIM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
