@@ -1,11 +1,10 @@
 - 👋 &nbsp; Hi, I’m @SUPINKIM
-- 👀 &nbsp; I love to start new Project and study algorithm!
-- 💻 &nbsp; I love coding!
+- 💻 &nbsp; https://velog.io/@qorgkr26
  
 
 #### 🛠 &nbsp; My Tech Stack &nbsp; 🛠
 
-<img src="https://img.shields.io/badge/Javascript-ff867c?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/CSS-90caf9?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/React.js-6c5ce7?style=flat-square&logo=React&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/React_Native-c62828?style=flat-square&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/Javascript-ff867c?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/React.js-6c5ce7?style=flat-square&logo=React&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Javascript-1976d2?style=flat-square&logo=TypeScript&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 
 
 #### 💻 &nbsp; career 
