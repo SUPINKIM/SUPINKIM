@@ -1,5 +1,5 @@
 - 👋 &nbsp; Hi, I’m @SUPINKIM
-- 💻 &nbsp; https://velog.io/@qorgkr26
+- 💻 &nbsp; 블로그 이사했습니다~ https://velog.io/@qorgkr26
  
 
 #### 🛠 &nbsp; My Tech Stack &nbsp; 🛠
