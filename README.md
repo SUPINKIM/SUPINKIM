@@ -1,5 +1,6 @@
 - 👋 &nbsp; Hi, I’m @SUPINKIM
 - 💻 &nbsp; 블로그 이사했습니다~ https://velog.io/@qorgkr26
+- 📄 &nbsp; 이력서가 궁금하면? https://cut-decade-d21.notion.site/163e79f33cee4ee7844884c75ea5e48e
  
 
 #### 🛠 &nbsp; My Tech Stack &nbsp; 🛠
