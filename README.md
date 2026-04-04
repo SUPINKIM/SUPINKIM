@@ -1,5 +1,5 @@
 - 👋 &nbsp; Hi, I’m @SUPINKIM
-- 💻 &nbsp; 블로그 이사했습니다~ https://velog.io/@qorgkr26
+- 💻 &nbsp; [개인블로그 🛫](https://travle-blog.vercel.app/)
 - 📄 &nbsp; 이력서가 궁금하면? [👉 김수빈 이력서](https://my.surfit.io/w/1555709893)
 
 ------
