@@ -12,9 +12,7 @@
 -----
 #### 🛠 &nbsp; My Tech Stack &nbsp; 🛠
 
-<img src="https://img.shields.io/badge/TypeScript-1976d2?style=flat-square&logo=TypeScript&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/JavaScript-ff867c?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/React.js-6c5ce7?style=flat-square&logo=React&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SUPINKIM)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://img.shields.io/badge/TypeScript-1976d2?style=flat-square&logo=TypeScript&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/JavaScript-ff867c?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/React.js-6c5ce7?style=flat-square&logo=React&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 
 
 <!---
